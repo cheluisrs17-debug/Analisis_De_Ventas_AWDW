@@ -1,0 +1,15 @@
+Clustering (IA) por rotación
+
+Una vez tengas tu tabla FactIndicadoresInventario, puedes exportarla:
+
+a Power BI (usando clustering nativo), o
+
+a Python / R para hacer k-means usando campos como:
+
+RotaciónInventario
+
+StockActual
+
+UnidadesVendidas
+
+StockOptimo
